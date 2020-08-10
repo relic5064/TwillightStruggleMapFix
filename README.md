@@ -1,3 +1,5 @@
+![](https://github.com/relic5064/TwillightStruggleMapFix/blob/master/Preview.jpg)
+
 修改内容：
 -----
 1.中印边境线</br>
